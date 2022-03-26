@@ -1,1 +1,1 @@
-https://github.com/PaulinaPo/rsschool-cv.git
+https://PaulinaPo.github.io/rsschool-cv/
